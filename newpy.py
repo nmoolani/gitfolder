@@ -14,3 +14,4 @@ else :
   b = "no"
 print(a)
 print(b)
+print (f"{a} , {b}")
